@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "59BD-8822-415D-5F75-4FD3-A878-1515-15F3",
+  "customer": "Anh Quan CTY",
+  "plan": "1m",
+  "issued": 1792168480,
+  "expires": 1794846880,
+  "id": "cd0bd3e9-e3d6-46be-9ac5-32be225cd443"
+ },
+ "signature": "zSHIKGbYUMi3WgVnXGKyBjwKSNJ8qaVAuqDUonAcdLlpvmeDBreW3LbrOA1IL9qI+T08/zjR6F0MQGWe4ST8Cg=="
+}
