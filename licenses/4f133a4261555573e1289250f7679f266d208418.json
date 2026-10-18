@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "A50C-93A6-CA94-BC9E-26CE-E6F6-BD27-2834",
+  "customer": "Đinh Hải Nam",
+  "plan": "3d",
+  "issued": 1792334921,
+  "expires": 1792594121,
+  "id": "818f62fc-1361-46b3-b324-4860a8795b8e"
+ },
+ "signature": "zOeguwR74/xYXFvFG5HegKiO4J200GcMnUqyHTu4G2kzrU+Xx64n3wZHO8Ncd6TIPSpTrPrBpnfKRxAQBIPJDw=="
+}
