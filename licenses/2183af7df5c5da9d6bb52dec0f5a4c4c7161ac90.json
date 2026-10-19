@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "F043-72EA-BFDA-A7C8-6567-DDD8-6B49-7324",
+  "customer": "B.Tuyến_Zalo",
+  "plan": "3d",
+  "issued": 1792389028,
+  "expires": 1792648228,
+  "id": "9a2e84fb-26ea-4555-8ee0-19737972786a"
+ },
+ "signature": "OfIJIOfuDtOUUNtWbUPUvl02pQm/x5F1Tt85AuHPPDJBJY0IDXZzq0HFzHUBTHCN2c9E0kOcfe195EOUoSlzAw=="
+}
