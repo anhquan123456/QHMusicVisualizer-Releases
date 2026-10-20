@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "B03C-87A8-19B1-89BB-57D4-6BCD-B9B4-3471",
+  "customer": "Xuân Tiệp",
+  "plan": "1m",
+  "issued": 1792506485,
+  "expires": 1795184885,
+  "id": "b1357708-9670-4063-84f2-c59644a37483"
+ },
+ "signature": "tPG+YFKRDoLSGxtsR8vF+P1lxbjZgwnRxGG6fFvzOjM5B/MniWS2bImpPKyR+CpbNdtRklj6GMMPlk4kyoIHDQ=="
+}
