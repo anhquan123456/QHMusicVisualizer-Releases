@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "4421-9891-A051-B8AE-899B-1871-FF01-63DE",
+  "customer": "Nguyễn Duy Đông",
+  "plan": "1m",
+  "issued": 1792597672,
+  "expires": 1795276072,
+  "id": "d18d2ed4-b0f9-40d8-916d-ec713775e07a"
+ },
+ "signature": "+hDPxQiyqqKnrMtWWinTyaTT8aY4OzqLRR6sPpXcv5fkk/ynELSxxOATyNuS3zumjYgFOURua9+B9J7wP7k/DQ=="
+}
