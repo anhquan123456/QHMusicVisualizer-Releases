@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "0809-B159-3FE5-6555-8BEF-F53B-2F4C-A1B6",
+  "customer": "Lương Quang Hà",
+  "plan": "1m",
+  "issued": 1792836547,
+  "expires": 1795514947,
+  "id": "3c126866-6a61-4dde-8f9d-ce4e8d668b81"
+ },
+ "signature": "lmPJBCqbi7BgzBdOyBuAP7Fkjc0O/6ndmXgMGvFqy8NXR3xKaVDo073kYOJyeTs7GDeRYuwFGSZ0wFMoOGIeBQ=="
+}
