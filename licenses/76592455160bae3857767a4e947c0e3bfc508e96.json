@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "64DC-8443-9447-CF0B-C826-A100-B9C0-CE79",
+  "customer": "Nguyen Quy",
+  "plan": "forever",
+  "issued": 1792927298,
+  "expires": null,
+  "id": "002e403b-e5de-4cd8-ae2a-c1eb2a89c0cd"
+ },
+ "signature": "hRNXv79aKje8oiO6tEnRjFqMKYEncg2+tjvC6jFNLRO2ZxO1KRMrB2jWRsFZULluzSpiiMSSvMxvXzBmpAm8Aw=="
+}
