@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "1BE0-AE10-276C-073B-1B0E-658F-DBAC-5492",
+  "customer": "Nhat Minh",
+  "plan": "1m",
+  "issued": 1793005035,
+  "expires": 1795683435,
+  "id": "75958fc7-5521-476b-a4f1-3af93a6b50d2"
+ },
+ "signature": "vZGLdmMmWCUWS27rFZom+/exh5wbZwjcIHIyC/SjHfWaqHd1qeWSSX7JDg9fSK2G8D5zroimu3vHopJDJWDiAA=="
+}
