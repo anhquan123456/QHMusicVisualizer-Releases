@@ -2,12 +2,9 @@
  "payload": {
   "version": 1,
   "product": "qh.music.visualizer",
+  "type": "revoke",
   "machine": "0806-42B2-A0C9-6B0B-65C2-F602-3441-4045",
-  "customer": "Hạnh Nguyễn",
-  "plan": "1m",
-  "issued": 1793028062,
-  "expires": 1795706462,
-  "id": "49d73dab-c0cf-46d2-98ce-46497a2b8bea"
+  "issued": 1793028711
  },
- "signature": "eLfQ4oelTPHB2rw323iyzcS9BrejWybDz6eszF2HDdOKoj/kdGnK4tkB+NLwjyKS54cFLc49wEd1mSJPxwsVBA=="
+ "signature": "YUUwXQylWrP+wJWu3nHL4sjfYIsSOF0Ea8dVwPJTkSWqhQJan7U8p0Y5n12UbtIwVHX+MlIzJ6p1B23pmd3NBQ=="
 }
