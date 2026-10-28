@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "DA40-56FF-F0F6-C4A3-00DF-45EB-34FD-6FB2",
+  "customer": "Bác NEO",
+  "plan": "forever",
+  "issued": 1793178396,
+  "expires": null,
+  "id": "5c6f96cc-6926-4964-9638-2b1f2777f2f9"
+ },
+ "signature": "0tm03vNLorcGQk/M3JuSAUsXs63DAJlbkjY5xveua681qZqZEbS5rjL44UMy7gOhNd8HUMBcoCzrglqBdIH5Cw=="
+}
