@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "1A33-09F2-F4E5-435C-4EFA-AB2F-456D-32C0",
+  "customer": "Công Bình",
+  "plan": "1m",
+  "issued": 1793515886,
+  "expires": 1796107886,
+  "id": "0fb1d1cd-5e9f-4507-9688-8fbb7e796cd9"
+ },
+ "signature": "yhdEh7I2Q1cltVbI1VP/c1itrqWlhwVs9/9vA5GV2jC++IFXc1RC//9kjXGVhUDue+k0cuJ+spuxZbrRUrv8Bg=="
+}
