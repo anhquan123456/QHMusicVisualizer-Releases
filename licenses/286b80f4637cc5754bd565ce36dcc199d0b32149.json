@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "81DB-EBDA-4E30-0E22-8DCF-CFC4-3193-F0AC",
+  "customer": "Hà Hải",
+  "plan": "1m",
+  "issued": 1793692740,
+  "expires": 1796284740,
+  "id": "231daf6a-1643-4b3c-bde1-8e50c8adac19"
+ },
+ "signature": "8lY0CU3uInRocsCaPSZRm3bc3b3kBtgIjSlF/m2TWHgSExgNwMH6zjxJRf6koUlzGHNSiv2PpWbXeqlT+tAFCQ=="
+}
