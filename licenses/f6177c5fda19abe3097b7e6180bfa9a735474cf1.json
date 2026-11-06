@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "9E05-EDA7-4B90-11B9-385C-FF7C-4FD8-4FD5",
+  "customer": "Admin",
+  "plan": "forever",
+  "issued": 1793982068,
+  "expires": null,
+  "id": "86157bfd-25e4-4cb9-b204-414eb4257026"
+ },
+ "signature": "ym6dgDklc23kOWvzMwXsMixA8KTGYiHYvmGzE5n/Wk4q3v3nwiI8qZkXdHUaqidxSibTBcs+KVde8ynAyKHUAg=="
+}
