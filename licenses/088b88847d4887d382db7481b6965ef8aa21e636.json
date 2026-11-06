@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "0D65-4030-236C-0242-9B28-820F-303E-D443",
+  "customer": "NV Anh Tâm 7",
+  "plan": "1m",
+  "issued": 1793948058,
+  "expires": 1796540058,
+  "id": "e45893e1-dc7f-4f13-a618-8e37d0a59c42"
+ },
+ "signature": "CZgVRtaM3cNiykQ0QvGGOCp4CW2/29QicHaR/Qhciz13/i9La56i0vF8JQBoZcFkVCcD+w5Ep7ScscIKdUYECw=="
+}
