@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "16F7-3FDF-7922-E3C6-54BA-F8A8-BEF8-568D",
+  "customer": "Thien Nuong Trieu 1",
+  "plan": "forever",
+  "issued": 1794150768,
+  "expires": null,
+  "id": "fc66f8c6-cf7d-4dbc-ba9c-7ede35830757"
+ },
+ "signature": "k9RbDj33rGp9sl5jkAs3+3gPNdrUqJa46ceFh6+4NzlP1oz9cZDB+rP9eFfNUZG4fJ4ImpZG2dNwVBRRnKhHDA=="
+}
