@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "88F4-C4BD-4390-B1F1-E71E-2CA1-D23E-723A",
+  "customer": "Thien Nuong Trieu 2",
+  "plan": "forever",
+  "issued": 1794150865,
+  "expires": null,
+  "id": "960e376b-a798-409c-9aea-8ec02745bd12"
+ },
+ "signature": "Y84ej0MhbOnxuqYYsBkIFXYVrS6D4fjIusLEkPXmINVZ5U73JITYOnB1Nhd+wH0SBZZcigBf0/HQy0FyuCtVAQ=="
+}
