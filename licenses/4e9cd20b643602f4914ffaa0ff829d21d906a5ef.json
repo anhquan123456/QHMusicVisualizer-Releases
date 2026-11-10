@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "C545-FE41-6C72-26DC-4C2F-A333-4588-675E",
+  "customer": "Lumi Mini Diy",
+  "plan": "3d",
+  "issued": 1794307550,
+  "expires": 1794566750,
+  "id": "204ba285-4930-46b7-9da7-a596923b7a10"
+ },
+ "signature": "/mJM6DLvwNUakJWtK9famTK6hCfdlbiMKZyn6gl8bkMtYRZiq3CXHuctL1yc7J9MCYHiHT5kaYaWrjaRBszTDQ=="
+}
