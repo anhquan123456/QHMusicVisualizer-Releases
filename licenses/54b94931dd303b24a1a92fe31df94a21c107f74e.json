@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "F9FF-522E-97E3-D4CF-BEE3-98DD-1F7E-0F0A",
+  "customer": "Tín Không Hack",
+  "plan": "1m",
+  "issued": 1794408924,
+  "expires": 1797000924,
+  "id": "4f081a20-de48-4d5f-8f88-88484917276d"
+ },
+ "signature": "W1AM7UUs2aMSNvNEF9n5MlxvfEtDQmLc4Jdx81CFHKTdVKYzjmVorHnczG3E9rKi657MFCYFUO4TJBETKstEDg=="
+}
