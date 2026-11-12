@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "2A80-CAB3-33C0-7803-873D-AB1C-B146-9F1B",
+  "customer": "Dyy",
+  "plan": "1m",
+  "issued": 1794499578,
+  "expires": 1797091578,
+  "id": "8a5cdd6a-6b6d-47a5-88ce-c7472668fb84"
+ },
+ "signature": "EQBm0jXy7abf222dk+wKWak3/05Xz1r4D8YRTtVN55CcDjtBKrecR+O0XinCXljlDDzh+Nq4XjwCEeZvA9KCCg=="
+}
