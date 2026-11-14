@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "F523-B42B-CFE7-CF9B-165F-4A03-DF5D-2FEC",
+  "customer": "Ngân Nguyễn",
+  "plan": "1m",
+  "issued": 1794630435,
+  "expires": 1797222435,
+  "id": "2a159d4e-28d8-44e5-a64f-3933a82bbeab"
+ },
+ "signature": "As3x+ko/VTJ2UlkVb7reXFMOOCXRhYeRPICrJPJeYpp9puyNiSX7Bheq6shPe3qZGw1T9mWJAptcWc7J8l0qDA=="
+}
