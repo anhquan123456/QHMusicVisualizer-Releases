@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "91BC-540E-EA22-DDFA-2954-7180-649B-1573",
+  "customer": "Dyy 2",
+  "plan": "1m",
+  "issued": 1794663678,
+  "expires": 1797255678,
+  "id": "8d28c61f-065b-40bb-815a-f152575e56a1"
+ },
+ "signature": "Cneyeyy7xiMKbvty0Pb6Gth9yXS7emtZZn1H46hekVm1cLZoisXSWYrsKQsxixLsvRq8oJLXM4uI7aByx1rZDw=="
+}
