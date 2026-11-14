@@ -4,10 +4,10 @@
   "product": "qh.music.visualizer",
   "machine": "9E05-EDA7-4B90-11B9-385C-FF7C-4FD8-4FD5",
   "customer": "Admin",
-  "plan": "forever",
-  "issued": 1793982068,
-  "expires": null,
-  "id": "86157bfd-25e4-4cb9-b204-414eb4257026"
+  "plan": "3m",
+  "issued": 1794633558,
+  "expires": 1802582358,
+  "id": "277d3a20-b0e9-4bd4-81ac-e95a29ccd60c"
  },
- "signature": "ym6dgDklc23kOWvzMwXsMixA8KTGYiHYvmGzE5n/Wk4q3v3nwiI8qZkXdHUaqidxSibTBcs+KVde8ynAyKHUAg=="
+ "signature": "uk7zte2PLiy5OZOOYXiFytBqxH9X9hbjysv5YEewdd8T18wrgHB2CYt0b7/r/xQ+O1eWu/fNv+9hMlPDwHs2DQ=="
 }
