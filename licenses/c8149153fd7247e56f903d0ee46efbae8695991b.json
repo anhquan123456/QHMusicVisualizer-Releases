@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "9397-2159-EB17-A76D-1D3A-F093-25DB-684F",
+  "customer": "lê văn cường",
+  "plan": "1m",
+  "issued": 1794921255,
+  "expires": 1797513255,
+  "id": "69da46f4-686f-436a-b6f8-1701622afd03"
+ },
+ "signature": "TKHXIuSwrU9pQbe4tSIrwLNIABh8cUdaKjDVxqpudvmg8Dsnxs2oUT8sromb77OCTm/+tZqOmgJ6H6aUgXdGCA=="
+}
