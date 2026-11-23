@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "B090-4EC8-B677-8B8F-9A91-C536-73B3-29D1",
+  "customer": "Kiên",
+  "plan": "forever",
+  "issued": 1795427381,
+  "expires": null,
+  "id": "7cc24767-6926-44a5-aadb-104864b44741"
+ },
+ "signature": "neGAMYhGNP4ZwVFvC4x3LsbFzJUQSiMOX8HMqJsv+9JjHMzQ7qBCl7C6MslMkepwhtcHF6jwP6r8jsXhGE4xBw=="
+}
