@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "C521-A2BF-4D0C-3DFA-82AF-0220-5C76-9A53",
+  "customer": "Trinh Hau",
+  "plan": "3d",
+  "issued": 1795401814,
+  "expires": 1795661014,
+  "id": "2ec12363-969d-4287-8f01-7ff647a49731"
+ },
+ "signature": "oCiieUHkeXST+Upz7wEzsEBW4IIOsDZY59SW5TcyV29gDdpGrFMQmlaCx4NK42Wv1gehdTABDxFdn3vtcKE5AA=="
+}
