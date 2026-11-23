@@ -2,9 +2,12 @@
  "payload": {
   "version": 1,
   "product": "qh.music.visualizer",
-  "type": "revoke",
   "machine": "4421-9891-A051-B8AE-899B-1871-FF01-63DE",
-  "issued": 1795437770
+  "customer": "Nguyễn Duy Đông",
+  "plan": "1m",
+  "issued": 1795437865,
+  "expires": 1798029865,
+  "id": "d5aa348e-cce2-448a-865d-28f62487f8c9"
  },
- "signature": "HXXzPUGB4HgLvsWj9GirBkPFQO/KaVyoHm/tQei000KbginxeQ4KEYgvg6SsrSqhnJ/MKT9rEI0XxUq/6Q/3Dg=="
+ "signature": "zyOkwNfqiJQAeC8k1NgvkTu0KgwI4oX1yrg5kSa9wvprL6VV0/AZ/T6Y0ys3OQIOHfzBvIFWAecKcO0vvtDvDw=="
 }
