@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "qh.music.visualizer",
+  "machine": "0D6A-2ACA-DB03-16DC-1E3A-41EC-E3D7-8CAD",
+  "customer": "Tuệ anh",
+  "plan": "3d",
+  "issued": 1795882493,
+  "expires": 1796141693,
+  "id": "6fbe684b-e1d7-4abb-afaf-88dd0467f013"
+ },
+ "signature": "22917EAiLLckMGaOry5ueQLN+7aBK0fvikpxJg8rzYJEGD7XcLuF0zUpf/I+F5mOYFal6vbGO71RLfFfudYHCQ=="
+}
